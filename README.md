@@ -13,7 +13,7 @@ our figma link </a>
 
 
 ##LIVE LINK
-THIS IS OUR LIVE LINK
+THIS IS OUR LIVE LINK https://mireillevelma.github.io/GROUP-PROJECT/
 
 
 
